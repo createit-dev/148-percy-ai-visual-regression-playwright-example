@@ -33,3 +33,4 @@ Run percy snapshots:
 ### Dependencies
 Node: v16.15.1 or earlier
 
+![](https://github.com/createit-dev/148-percy-ai-visual-regression-playwright-example/blob/main/images/percy_io_playwright_example.gif)
