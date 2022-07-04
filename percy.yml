@@ -1,0 +1,12 @@
+version: 2
+snapshot:
+  widths:
+    - 375
+    - 1280
+  min-height: 1024
+  percy-css: |
+    .site-header .main-nav>ul>li>a {
+      color:inherit !important;
+    }
+discovery:
+  disable-cache: true
